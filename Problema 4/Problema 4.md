@@ -1,0 +1,2 @@
+<h1>Problema 4</h1>
+<p>Dados dos puntos en el plano por sus coordenadas (x1, y1) y (x2, y2), diseñe un programa para calcular la ordenada correspondiente a una abscisa x cualquiera (también suministrada como dato) empleando <strong>interpolación lineal</strong>.</p>

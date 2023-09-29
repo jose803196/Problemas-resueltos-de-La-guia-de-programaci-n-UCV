@@ -1,48 +1,37 @@
-
 #Jose G. Lopez
 #Lenguaje: Python 2.7
 #Problema 1
 
-import math
 #Zona de funciones
-def lposx():
-	"""Esta funcion se encarga de demostrar que el dato ingresado sea numerico."""
-	x = raw_input("Ingrese la coordenada x: ")
+def x_1():
+	"""Esta funcion se encarga de verificar el dato dado por el usuario."""	
+	x = raw_input("Ingrese la coordenada x del punto: ")
 	try:
-		x_1 = float(x)
-		return x_1
-	except(ValueError):
-		print("Ingrese valores numericos")
-		x_2 = lposx()
-
-def lposy():
-	"""Esta funcion se encarga de demostrar que el dato ingresado sea numerico."""
-	y = raw_input("Ingrese la coordenada y: ")
+		A = float(x)
+		return A
+	except ValueError:
+		print("Ingrese datos numericos.")
+def y_1():
+	"""Esta funcion se encarga de verificar el dato dado por el usuario."""
+	y = raw_input("Ingrese la coordenada y del punto: ")
 	try:
-		y_1 = float(y)
-		return y_1
-	except(ValueError):
-		print("Ingrese valores numericos")
-		y_2 = lposy()
-
-def carapol(A, B):
-	"""Esta funcion se encarga de transformar un numero de coordenadas cartesianas a polares."""
-	r = math.sqrt((A)**2 + (B)**2)
-	angulo = math.atan2(B, A)
-	if A < 0 and B < 0:
-		angulo_1 = 360+ math.degrees(angulo)
-		return r,angulo_1
-	elif A > 0 and B < 0:
-		angulo_1 = 360 + math.degrees(angulo)
-		return r, angulo_1
-	elif A == 0 and B < 0:
-		angulo_1 = 360 + math.degrees(angulo)
-		return r, angulo_1
+		A = float(y)
+		return A
+	except ValueError:
+		print("Ingrese datos numericos.")
+def cuadrant(X,Y):
+	"""Esta funcion se encarga de determinar el cuadrante en el cual se encuentra un punto."""
+	if (X == 0) or (Y == 0):
+		print("Este punto no define un cuadrante preciso.")
+	elif (X > 0) and (Y > 0):
+		print("El punto esta en el primer cuadrante.")
+	elif (X < 0) and (Y > 0):
+		print("El punto esta en el segundo cuadrante.")
+	elif (X < 0) and (Y < 0):
+		print("El punto esta en el tercer cuadrante.")
 	else:
-		angulo_1 = math.degrees(angulo)
-		return r, angulo_1
-#Zona del programa principal
-A = lposx()
-B = lposy()
-C = carapol(A,B)
-print(C)
+		print("El punto esta en el cuarto cuadrante.")
+#Zona del programa pricipal
+X = x_1()
+Y = y_1()
+Cua = cuadrant(X, Y)

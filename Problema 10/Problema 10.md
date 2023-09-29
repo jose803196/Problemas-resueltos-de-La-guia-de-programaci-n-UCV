@@ -1,0 +1,2 @@
+<h1>Problema 10</h1>
+<p>Una forma de determinar si un año es <strong>bisiesto</strong> es que el mismo sea divisible de manera exacta por cuatro, pero si el mismo es fin de siglo (año secular) también debe ser divisible por cuatrocientos. Realice un programa que basado en el criterio anterior determine si un año dado como dato es o no bisiesto, generando un mensaje adecuado.</p>

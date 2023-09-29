@@ -1,0 +1,2 @@
+<h1>Problema 6</h1>
+<p>Diseñar un programa que dadas las coordenadas <strong>cartesianas</strong> (x, y, z) de un punto en el espacio, calcule y muestre sus coordenadas <strong>cilíndricas</strong> y sus coordenadas <strong>esféricas</strong>.</p>
