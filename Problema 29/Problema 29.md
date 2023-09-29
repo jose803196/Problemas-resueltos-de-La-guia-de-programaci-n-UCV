@@ -1,0 +1,2 @@
+<h1>Problema 29</h1>
+<p>En un tablero de ajedrez se coloca en la primera casilla un grano de arroz, en la segunda se coloca el doble de granos que en la anterior y así sucesivamente hasta la 64ava casilla. Diseñe un programa para presentar un listado en donde se indique el número de la casilla, el número de granos colocados en esa casilla y la suma de los granos acumulados hasta esa casilla.</p>

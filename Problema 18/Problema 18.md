@@ -1,0 +1,2 @@
+<h1>Problema 18</h1>
+<p>Las siguientes unidades de distancia son de origen hispanoamericano y se muestra también su equivalencia con el metro: Almud (0,27 m), Cana (1,541 m), Dedo (0,0174 m), Estadal (3,391 m), Jarocha (4,19 m), Palmo (0,212 m), Mecate (20,062 m). Realice un programa donde dada una medida suministrada en metros, se indique su equivalente en la medida seleccionada por el usuario.</p>
