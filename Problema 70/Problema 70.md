@@ -1,0 +1,2 @@
+<h1>Problema 70</h1>
+<p1>Realizar un programa que calcule el <strong>factorial</strong> de un número entero y positivo, no olvide tomar las precauciones pertinentes para cubrir el eventual problema de sobrepasar el rango de valores numéricos que dispone en sus variables.</p1>

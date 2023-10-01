@@ -1,0 +1,3 @@
+<h1>Problema 47</h1>
+
+<p1>Se dice que tres números naturales <strong>A</strong>, <strong>B</strong> y <strong>C</strong> forman <strong>terna pitagórica</strong> cuando se cumple la relación <strong>A</strong>^2 + <strong>B</strong>^2 = <strong>C</strong>^2. Por ejemplo 3,4 y 5 forman una terna pitagórica ya que 32 + 42 = 52. Diseñe un programa que cuente cuántas ternas pitagóricas se forman tales que tanto el valor de A y de B sean menores que un número <strong>N</strong> dado como dato.</p1>

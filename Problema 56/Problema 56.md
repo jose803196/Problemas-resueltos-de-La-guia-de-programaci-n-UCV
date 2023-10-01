@@ -1,0 +1,2 @@
+<h1>Problema 56</h1>
+<p1>Un caracol cae en un pozo de <strong>H</strong> metros de profundidad, Durante el día el caracol asciende <strong>Ld</strong> metros, pero durante la noche, al quedarse dormido, resbala y desciende <strong>Ln</strong> metros. Diseñe un programa que simulando el movimiento del animalito, determine en cuánto tiempo sale del pozo.</p1>
