@@ -21,4 +21,13 @@
     <li> Problema 70 </li>
     <li> Problema 71 </li>
     <li> Problema 73 </li>
+    <li> Problema 112 </li>
+    <li> Problema 113 </li>
+    <li> Problema 114 </li>
+    <li> Problema 137 </li>
+    <li> Problema 140 </li>
+    <li> Problema 141 </li>
+    <li> Problema 145 </li>
+    <li> Problema 149 </li>
+    <li> Problema 155 </li>
 </ol>

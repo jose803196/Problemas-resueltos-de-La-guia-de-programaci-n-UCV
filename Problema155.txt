@@ -1,7 +1,0 @@
-Realice un programa que genere una matriz A de orden NxM en zig-zag horizontal
-según la secuencia que se muestra en el ejemplo:
-
-1,2,3,4,5
-10,9,8,7,6
-11,12,13,14,15
-20,19,18,17,16
