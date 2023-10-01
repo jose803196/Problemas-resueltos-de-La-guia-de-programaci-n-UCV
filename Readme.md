@@ -15,4 +15,10 @@
     <li> Problema 33 </li>
     <li> Problema 34 </li>
     <li> Problema 43 </li>
+    <li> Problema 47 </li>
+    <li> Problema 56 </li>
+    <li> Problema 57 </li>
+    <li> Problema 70 </li>
+    <li> Problema 71 </li>
+    <li> Problema 73 </li>
 </ol>
