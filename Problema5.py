@@ -1,5 +1,5 @@
 #Jose G. Lopez
-#Lenguaje: Python 2.7
+#Lenguaje: Python 2.7.0
 #Problema 5
 
 
