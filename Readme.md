@@ -58,7 +58,7 @@
             <h2 id="instrucciones">Instrucciones de Uso</h2>
             <ul role="list">
                 <li><strong>Organización</strong>: Cada solución está en un archivo o carpeta con el formato <code>Problema_X</code>.</li>
-                <li><strong>Lenguajes</strong>: Las soluciones están implementadas en [especificar lenguaje(s), ej. Python, C++, Java], con comentarios detallados.</li>
+                <li><strong>Lenguajes</strong>: Las soluciones están implementadas en Python, con comentarios detallados.</li>
                 <li><strong>Contribuciones</strong>: Para colaborar, consulta la sección <a href="#contribuir">Cómo Contribuir</a>.</li>
             </ul>
         </section>
